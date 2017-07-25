@@ -11,7 +11,7 @@
     "presets" : {"url": "http://elearning.top.co.id", "username": ""},    
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    //"siteurl": "",
+    "siteurl": "http://elearning.top.co.id",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
