@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="id.co.top.elearning" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>E-Learning by TOP.co.id</name>
+  <name>elearningbytopcoid</name>
   <description>Official E-Learning TOP Mobile app</description>
   <author href="https://top.co.id" email="ceo@top.co.id">Wanandi Kartawinata</author>
   <content src="index.html"/>
